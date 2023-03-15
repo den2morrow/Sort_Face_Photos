@@ -1,0 +1,4 @@
+C:\Users\N\PycharmProjects\FRP_with_C++\dataset_for_exe
+C:\Users\N\PycharmProjects\FRP_with_C++\Same
+C:\Users\N\PycharmProjects\FRP_with_C++\Another
+C:\Users\N\PycharmProjects\FRP_with_C++\image111.jpg
